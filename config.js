@@ -1,2 +1,2 @@
 console.log('config.js');
-console.log('version-2 of git in config.js');
+console.log('version-3 of git in config.js');
